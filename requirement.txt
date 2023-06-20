@@ -1,0 +1,5 @@
+numpy
+pyautogui
+matplotlib
+pynput
+
